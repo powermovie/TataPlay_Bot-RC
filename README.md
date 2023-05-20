@@ -2,7 +2,7 @@
 
 join my channel - https://t.me/RCrips
 
-Thnaks to Conan Edogowa for code 
+Thanks to Conan Edogowa for code 
 
 To host bot Run these commands -
 
