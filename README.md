@@ -1,5 +1,9 @@
 # TataPlay_Bot-RC
 
+join my channel - https://t.me/RCrips
+
+Thnaks to Conan Edogowa for code 
+
 To host bot Run these commands -
 
 1. Install requirments.txt 
